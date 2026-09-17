@@ -6,8 +6,10 @@ programa {
 
     escreva("Digite  primeiro lado: ")
     leia(L1)
+
     escreva("Digite o segundo lado: ")
     leia(L2)
+
     escreva("Digite o terceiro lado: ")
     leia(L3)
 
